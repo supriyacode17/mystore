@@ -1,0 +1,75 @@
+[
+    {
+      "productId":1,
+      "productName":"Samsung Galaxy A22 5G 128 GB ",
+      "productType":"Mobile",
+      "productPrice":20000,
+      "productMDate":"2021,8,12",
+      "productImageUrl":"https://plasma-mobile.org/img/plasmaphone.svg",
+      "productRating":2.2
+    },
+    {
+      "productId":2,
+      "productName":"Redmi TV 43-inch",
+      "productType":"TV",
+      "productPrice":25000,
+      "productMDate":"2021,5,10",
+      "productImageUrl":"https://images.indianexpress.com/2021/10/Redmi-TV-review-1.jpg",
+      "productRating":3.2
+    },
+    {
+      "productId":3,
+      "productName":"Samsung Galaxy",
+      "productPrice":20000,
+      "productImageUrl":"https://www.gizmochina.com/wp-content/uploads/2019/06/Galaxy-A60-featured.jpg",
+      "productType":"Mobile",
+      "productMDate":"2019,5,15",
+      "productRating":4
+    },
+    {
+      "productId":4,
+      "productName":"Sony Xperia",
+      "productPrice":18000,
+      "productImageUrl":"https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-iv-1.jpg",
+      "productType":"Mobile",
+      "productMDate":"2020,8,22",
+      "productRating":4.2
+    },
+    {
+      "productId":5,
+      "productName":"Sony TV 30inches",
+      "productPrice":25000,
+      "productImageUrl":"https://4.imimg.com/data4/VG/PA/MY-17088056/sony-led-tv-500x500.jpg",
+      "productType":"TV",
+      "productMDate":"2021,1,5",
+      "productRating":3.4
+    },
+    {
+      "productId":6,
+      "productName":"Sumsung TV 36inches",
+      "productPrice":45000,
+      "productImageUrl":"https://cdn1.smartprix.com/rx-iZPWFXZzK-w420-h420/samsung-crystal-55au.jpg",
+      "productType":"TV",
+      "productMDate":"2020,11,25",
+      "productRating":3.8
+    },
+    {
+      "productId":7,
+      "productName":"Voltas AC",
+      "productPrice":33000,
+      "productImageUrl":"https://5.imimg.com/data5/OQ/XZ/NL/SELLER-50725586/voltas-2-0ton-3star-split-ac-500x500.jpg",
+      "productType":"AC",
+      "productMDate":"2020,0,27",
+      "productRating":2.9
+    },
+    {
+      "productId":8,
+      "productName":"Whirlpool Refrigerator",
+      "productPrice":47000,
+      "productImageUrl":"https://5.imimg.com/data5/SA/JZ/MX/SELLER-2694128/whirlpool-refrigerator-71229-1000x1000.jpg",
+      "productType":"Refrigertor",
+      "productMDate":"2018,1,28",
+      "productRating":4.2
+    }
+
+  ]
